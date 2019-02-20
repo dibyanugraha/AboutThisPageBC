@@ -1,4 +1,3 @@
 *.app
 .alpackages/*.app
 .vscode/launch.json
-*.json

@@ -1,0 +1,23 @@
+{
+  "id": "9cadb4a2-d4ed-464b-b7e7-91e624fe1243",
+  "name": "Show About This Page on Several Pages",
+  "publisher": "Ariestya Dibyanugraha",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.2"
+}
